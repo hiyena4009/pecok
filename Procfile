@@ -1,1 +1,1 @@
-worker: pptunnel -s
+worker: python pptunnel -s
